@@ -1,0 +1,545 @@
+Organization,Home/Away Game?,Opponent,team,opp_team,Team_Ranking,Opp_Ranking,Division,Conference
+Buffalo Bills,Home,Miami Dolphins,BUF,MIA,1,17,AFC East,AFC
+Buffalo Bills,Home,New England Patriots,BUF,NWE,1,9,AFC East,AFC
+Buffalo Bills,Home,New York Jets,BUF,NYJ,1,28,AFC East,AFC
+Buffalo Bills,Home,Cleveland Browns,BUF,CLE,1,16,AFC East,AFC
+Buffalo Bills,Home,Green Bay Packers,BUF,GNB,1,4,AFC East,AFC
+Buffalo Bills,Home,Minnesota Vikings,BUF,MIN,1,20,AFC East,AFC
+Buffalo Bills,Home,Pittsburgh Steelers,BUF,PIT,1,18,AFC East,AFC
+Buffalo Bills,Home,Tennessee Titans,BUF,TEN,1,11,AFC East,AFC
+Buffalo Bills,Away,Miami Dolphins,BUF,MIA,1,17,AFC East,AFC
+Buffalo Bills,Away,New England Patriots,BUF,NWE,1,9,AFC East,AFC
+Buffalo Bills,Away,New York Jets,BUF,NYJ,1,28,AFC East,AFC
+Buffalo Bills,Away,Baltimore Ravens,BUF,BAL,1,12,AFC East,AFC
+Buffalo Bills,Away,Chicago Bears,BUF,CHI,1,26,AFC East,AFC
+Buffalo Bills,Away,Cincinnati Bengals,BUF,CIN,1,5,AFC East,AFC
+Buffalo Bills,Away,Detroit Lions,BUF,DET,1,30,AFC East,AFC
+Buffalo Bills,Away,Kansas City Chiefs,BUF,KAN,1,2,AFC East,AFC
+Buffalo Bills,Away,Los Angeles Rams,BUF,LAR,1,3,AFC East,AFC
+New England Patriots,Home,Buffalo Bills,NWE,BUF,9,1,AFC East,AFC
+New England Patriots,Home,Miami Dolphins,NWE,MIA,9,17,AFC East,AFC
+New England Patriots,Home,New York Jets,NWE,NYJ,9,28,AFC East,AFC
+New England Patriots,Home,Baltimore Ravens,NWE,BAL,9,12,AFC East,AFC
+New England Patriots,Home,Chicago Bears,NWE,CHI,9,26,AFC East,AFC
+New England Patriots,Home,Cincinnati Bengals,NWE,CIN,9,5,AFC East,AFC
+New England Patriots,Home,Detroit Lions,NWE,DET,9,30,AFC East,AFC
+New England Patriots,Home,Indianapolis Colts,NWE,IND,9,13,AFC East,AFC
+New England Patriots,Away,Buffalo Bills,NWE,BUF,9,1,AFC East,AFC
+New England Patriots,Away,Miami Dolphins,NWE,MIA,9,17,AFC East,AFC
+New England Patriots,Away,New York Jets,NWE,NYJ,9,28,AFC East,AFC
+New England Patriots,Away,Arizona Cardinals,NWE,ARI,9,10,AFC East,AFC
+New England Patriots,Away,Cleveland Browns,NWE,CLE,9,16,AFC East,AFC
+New England Patriots,Away,Green Bay Packers,NWE,GNB,9,4,AFC East,AFC
+New England Patriots,Away,Minnesota Vikings,NWE,MIN,9,20,AFC East,AFC
+New England Patriots,Away,Las Vegas Raiders,NWE,LVR,9,15,AFC East,AFC
+New England Patriots,Away,Pittsburgh Steelers,NWE,PIT,9,18,AFC East,AFC
+Miami Dolphins,Home,Buffalo Bills,MIA,BUF,17,1,AFC East,AFC
+Miami Dolphins,Home,New England Patriots,MIA,NWE,17,9,AFC East,AFC
+Miami Dolphins,Home,New York Jets,MIA,NYJ,17,28,AFC East,AFC
+Miami Dolphins,Home,Cleveland Browns,MIA,CLE,17,16,AFC East,AFC
+Miami Dolphins,Home,Green Bay Packers,MIA,GNB,17,4,AFC East,AFC
+Miami Dolphins,Home,Houston Texans,MIA,HOU,17,31,AFC East,AFC
+Miami Dolphins,Home,Minnesota Vikings,MIA,MIN,17,20,AFC East,AFC
+Miami Dolphins,Home,Pittsburgh Steelers,MIA,PIT,17,18,AFC East,AFC
+Miami Dolphins,Away,Buffalo Bills,MIA,BUF,17,1,AFC East,AFC
+Miami Dolphins,Away,New England Patriots,MIA,NWE,17,9,AFC East,AFC
+Miami Dolphins,Away,New York Jets,MIA,NYJ,17,28,AFC East,AFC
+Miami Dolphins,Away,Baltimore Ravens,MIA,BAL,17,12,AFC East,AFC
+Miami Dolphins,Away,Chicago Bears,MIA,CHI,17,26,AFC East,AFC
+Miami Dolphins,Away,Cincinnati Bengals,MIA,CIN,17,5,AFC East,AFC
+Miami Dolphins,Away,Detroit Lions,MIA,DET,17,30,AFC East,AFC
+Miami Dolphins,Away,Los Angeles Chargers,MIA,LAC,17,8,AFC East,AFC
+Miami Dolphins,Away,San Francisco 49ers,MIA,SFO,17,6,AFC East,AFC
+New York Jets,Home,Buffalo Bills,NYJ,BUF,28,1,AFC East,AFC
+New York Jets,Home,Miami Dolphins,NYJ,MIA,28,17,AFC East,AFC
+New York Jets,Home,New England Patriots,NYJ,NWE,28,9,AFC East,AFC
+New York Jets,Home,Baltimore Ravens,NYJ,BAL,28,12,AFC East,AFC
+New York Jets,Home,Chicago Bears,NYJ,CHI,28,26,AFC East,AFC
+New York Jets,Home,Cincinnati Bengals,NYJ,CIN,28,5,AFC East,AFC
+New York Jets,Home,Detroit Lions,NYJ,DET,28,30,AFC East,AFC
+New York Jets,Home,Jacksonville Jaguars,NYJ,JAX,28,32,AFC East,AFC
+New York Jets,Away,Buffalo Bills,NYJ,BUF,28,1,AFC East,AFC
+New York Jets,Away,Miami Dolphins,NYJ,MIA,28,17,AFC East,AFC
+New York Jets,Away,New England Patriots,NYJ,NWE,28,9,AFC East,AFC
+New York Jets,Away,Cleveland Browns,NYJ,CLE,28,16,AFC East,AFC
+New York Jets,Away,Denver Broncos,NYJ,DEN,28,21,AFC East,AFC
+New York Jets,Away,Green Bay Packers,NYJ,GNB,28,4,AFC East,AFC
+New York Jets,Away,Minnesota Vikings,NYJ,MIN,28,20,AFC East,AFC
+New York Jets,Away,Pittsburgh Steelers,NYJ,PIT,28,18,AFC East,AFC
+New York Jets,Away,Seattle Seahawks,NYJ,SEA,28,23,AFC East,AFC
+Cincinnati Bengals,Home,Baltimore Ravens,CIN,BAL,5,12,AFC North,AFC
+Cincinnati Bengals,Home,Cleveland Browns,CIN,CLE,5,16,AFC North,AFC
+Cincinnati Bengals,Home,Pittsburgh Steelers,CIN,PIT,5,18,AFC North,AFC
+Cincinnati Bengals,Home,Atlanta Falcons,CIN,ATL,5,24,AFC North,AFC
+Cincinnati Bengals,Home,Buffalo Bills,CIN,BUF,5,1,AFC North,AFC
+Cincinnati Bengals,Home,Carolina Panthers,CIN,CAR,5,29,AFC North,AFC
+Cincinnati Bengals,Home,Kansas City Chiefs,CIN,KAN,5,2,AFC North,AFC
+Cincinnati Bengals,Home,Miami Dolphins,CIN,MIA,5,17,AFC North,AFC
+Cincinnati Bengals,Away,Baltimore Ravens,CIN,BAL,5,12,AFC North,AFC
+Cincinnati Bengals,Away,Cleveland Browns,CIN,CLE,5,16,AFC North,AFC
+Cincinnati Bengals,Away,Pittsburgh Steelers,CIN,PIT,5,18,AFC North,AFC
+Cincinnati Bengals,Away,Dallas Cowboys,CIN,DAL,5,19,AFC North,AFC
+Cincinnati Bengals,Away,New England Patriots,CIN,NWE,5,9,AFC North,AFC
+Cincinnati Bengals,Away,New Orleans Saints,CIN,NOR,5,22,AFC North,AFC
+Cincinnati Bengals,Away,New York Jets,CIN,NYJ,5,28,AFC North,AFC
+Cincinnati Bengals,Away,Tampa Bay Buccaneers,CIN,TAM,5,7,AFC North,AFC
+Cincinnati Bengals,Away,Tennessee Titans,CIN,TEN,5,11,AFC North,AFC
+Pittsburgh Steelers,Home,Baltimore Ravens,PIT,BAL,18,12,AFC North,AFC
+Pittsburgh Steelers,Home,Cincinnati Bengals,PIT,CIN,18,5,AFC North,AFC
+Pittsburgh Steelers,Home,Cleveland Browns,PIT,CLE,18,16,AFC North,AFC
+Pittsburgh Steelers,Home,Las Vegas Raiders,PIT,LVR,18,15,AFC North,AFC
+Pittsburgh Steelers,Home,New England Patriots,PIT,NWE,18,9,AFC North,AFC
+Pittsburgh Steelers,Home,New Orleans Saints,PIT,NOR,18,22,AFC North,AFC
+Pittsburgh Steelers,Home,New York Jets,PIT,NYJ,18,28,AFC North,AFC
+Pittsburgh Steelers,Home,Tampa Bay Buccaneers,PIT,TAM,18,7,AFC North,AFC
+Pittsburgh Steelers,Away,Baltimore Ravens,PIT,BAL,18,12,AFC North,AFC
+Pittsburgh Steelers,Away,Cincinnati Bengals,PIT,CIN,18,5,AFC North,AFC
+Pittsburgh Steelers,Away,Cleveland Browns,PIT,CLE,18,16,AFC North,AFC
+Pittsburgh Steelers,Away,Atlanta Falcons,PIT,ATL,18,24,AFC North,AFC
+Pittsburgh Steelers,Away,Buffalo Bills,PIT,BUF,18,1,AFC North,AFC
+Pittsburgh Steelers,Away,Carolina Panthers,PIT,CAR,18,29,AFC North,AFC
+Pittsburgh Steelers,Away,Indianapolis Colts,PIT,IND,18,13,AFC North,AFC
+Pittsburgh Steelers,Away,Miami Dolphins,PIT,MIA,18,17,AFC North,AFC
+Pittsburgh Steelers,Away,Philadelphia Eagles,PIT,PHI,18,14,AFC North,AFC
+Cleveland Browns,Home,Baltimore Ravens,CLE,BAL,16,12,AFC North,AFC
+Cleveland Browns,Home,Cincinnati Bengals,CLE,CIN,16,5,AFC North,AFC
+Cleveland Browns,Home,Pittsburgh Steelers,CLE,PIT,16,18,AFC North,AFC
+Cleveland Browns,Home,Los Angeles Chargers,CLE,LAC,16,8,AFC North,AFC
+Cleveland Browns,Home,New England Patriots,CLE,NWE,16,9,AFC North,AFC
+Cleveland Browns,Home,New Orleans Saints,CLE,NOR,16,22,AFC North,AFC
+Cleveland Browns,Home,New York Jets,CLE,NYJ,16,28,AFC North,AFC
+Cleveland Browns,Home,Tampa Bay Buccaneers,CLE,TAM,16,7,AFC North,AFC
+Cleveland Browns,Away,Baltimore Ravens,CLE,BAL,16,12,AFC North,AFC
+Cleveland Browns,Away,Cincinnati Bengals,CLE,CIN,16,5,AFC North,AFC
+Cleveland Browns,Away,Pittsburgh Steelers,CLE,PIT,16,18,AFC North,AFC
+Cleveland Browns,Away,Atlanta Falcons,CLE,ATL,16,24,AFC North,AFC
+Cleveland Browns,Away,Buffalo Bills,CLE,BUF,16,1,AFC North,AFC
+Cleveland Browns,Away,Carolina Panthers,CLE,CAR,16,29,AFC North,AFC
+Cleveland Browns,Away,Houston Texans,CLE,HOU,16,31,AFC North,AFC
+Cleveland Browns,Away,Miami Dolphins,CLE,MIA,16,17,AFC North,AFC
+Cleveland Browns,Away,Washington Football Team,CLE,WAS,16,25,AFC North,AFC
+Baltimore Ravens,Home,Cincinnati Bengals,BAL,CIN,12,5,AFC North,AFC
+Baltimore Ravens,Home,Cleveland Browns,BAL,CLE,12,16,AFC North,AFC
+Baltimore Ravens,Home,Pittsburgh Steelers,BAL,PIT,12,18,AFC North,AFC
+Baltimore Ravens,Home,Atlanta Falcons,BAL,ATL,12,24,AFC North,AFC
+Baltimore Ravens,Home,Buffalo Bills,BAL,BUF,12,1,AFC North,AFC
+Baltimore Ravens,Home,Carolina Panthers,BAL,CAR,12,29,AFC North,AFC
+Baltimore Ravens,Home,Denver Broncos,BAL,DEN,12,21,AFC North,AFC
+Baltimore Ravens,Home,Miami Dolphins,BAL,MIA,12,17,AFC North,AFC
+Baltimore Ravens,Away,Cincinnati Bengals,BAL,CIN,12,5,AFC North,AFC
+Baltimore Ravens,Away,Cleveland Browns,BAL,CLE,12,16,AFC North,AFC
+Baltimore Ravens,Away,Pittsburgh Steelers,BAL,PIT,12,18,AFC North,AFC
+Baltimore Ravens,Away,Jacksonville Jaguars,BAL,JAX,12,32,AFC North,AFC
+Baltimore Ravens,Away,New England Patriots,BAL,NWE,12,9,AFC North,AFC
+Baltimore Ravens,Away,New Orleans Saints,BAL,NOR,12,22,AFC North,AFC
+Baltimore Ravens,Away,New York Giants,BAL,NYG,12,27,AFC North,AFC
+Baltimore Ravens,Away,New York Jets,BAL,NYJ,12,28,AFC North,AFC
+Baltimore Ravens,Away,Tampa Bay Buccaneers,BAL,TAM,12,7,AFC North,AFC
+Tennessee Titans,Home,Houston Texans,TEN,HOU,11,31,AFC South,AFC
+Tennessee Titans,Home,Indianapolis Colts,TEN,IND,11,13,AFC South,AFC
+Tennessee Titans,Home,Jacksonville Jaguars,TEN,JAX,11,32,AFC South,AFC
+Tennessee Titans,Home,Cincinnati Bengals,TEN,CIN,11,5,AFC South,AFC
+Tennessee Titans,Home,Dallas Cowboys,TEN,DAL,11,19,AFC South,AFC
+Tennessee Titans,Home,Denver Broncos,TEN,DEN,11,21,AFC South,AFC
+Tennessee Titans,Home,Las Vegas Raiders,TEN,LVR,11,15,AFC South,AFC
+Tennessee Titans,Home,New York Giants,TEN,NYG,11,27,AFC South,AFC
+Tennessee Titans,Away,Houston Texans,TEN,HOU,11,31,AFC South,AFC
+Tennessee Titans,Away,Indianapolis Colts,TEN,IND,11,13,AFC South,AFC
+Tennessee Titans,Away,Jacksonville Jaguars,TEN,JAX,11,32,AFC South,AFC
+Tennessee Titans,Away,Buffalo Bills,TEN,BUF,11,1,AFC South,AFC
+Tennessee Titans,Away,Green Bay Packers,TEN,GNB,11,4,AFC South,AFC
+Tennessee Titans,Away,Kansas City Chiefs,TEN,KAN,11,2,AFC South,AFC
+Tennessee Titans,Away,Los Angeles Chargers,TEN,LAC,11,8,AFC South,AFC
+Tennessee Titans,Away,Philadelphia Eagles,TEN,PHI,11,14,AFC South,AFC
+Tennessee Titans,Away,Washington Football Team,TEN,WAS,11,25,AFC South,AFC
+Indianapolis Colts,Home,Houston Texans,IND,HOU,13,31,AFC South,AFC
+Indianapolis Colts,Home,Jacksonville Jaguars,IND,JAX,13,32,AFC South,AFC
+Indianapolis Colts,Home,Tennessee Titans,IND,TEN,13,11,AFC South,AFC
+Indianapolis Colts,Home,Kansas City Chiefs,IND,KAN,13,2,AFC South,AFC
+Indianapolis Colts,Home,Los Angeles Chargers,IND,LAC,13,8,AFC South,AFC
+Indianapolis Colts,Home,Philadelphia Eagles,IND,PHI,13,14,AFC South,AFC
+Indianapolis Colts,Home,Pittsburgh Steelers,IND,PIT,13,18,AFC South,AFC
+Indianapolis Colts,Home,Washington Football Team,IND,WAS,13,25,AFC South,AFC
+Indianapolis Colts,Away,Houston Texans,IND,HOU,13,31,AFC South,AFC
+Indianapolis Colts,Away,Jacksonville Jaguars,IND,JAX,13,32,AFC South,AFC
+Indianapolis Colts,Away,Tennessee Titans,IND,TEN,13,11,AFC South,AFC
+Indianapolis Colts,Away,Dallas Cowboys,IND,DAL,13,19,AFC South,AFC
+Indianapolis Colts,Away,Denver Broncos,IND,DEN,13,21,AFC South,AFC
+Indianapolis Colts,Away,Las Vegas Raiders,IND,LVR,13,15,AFC South,AFC
+Indianapolis Colts,Away,Minnesota Vikings,IND,MIN,13,20,AFC South,AFC
+Indianapolis Colts,Away,New York Giants,IND,NYG,13,27,AFC South,AFC
+Indianapolis Colts,Away,New England Patriots,IND,NWE,13,9,AFC South,AFC
+Houston Texans,Home,Indianapolis Colts,HOU,IND,31,13,AFC South,AFC
+Houston Texans,Home,Jacksonville Jaguars,HOU,JAX,31,32,AFC South,AFC
+Houston Texans,Home,Tennessee Titans,HOU,TEN,31,11,AFC South,AFC
+Houston Texans,Home,Cleveland Browns,HOU,CLE,31,16,AFC South,AFC
+Houston Texans,Home,Kansas City Chiefs,HOU,KAN,31,2,AFC South,AFC
+Houston Texans,Home,Los Angeles Chargers,HOU,LAC,31,8,AFC South,AFC
+Houston Texans,Home,Philadelphia Eagles,HOU,PHI,31,14,AFC South,AFC
+Houston Texans,Home,Washington Football Team,HOU,WAS,31,25,AFC South,AFC
+Houston Texans,Away,Indianapolis Colts,HOU,IND,31,13,AFC South,AFC
+Houston Texans,Away,Jacksonville Jaguars,HOU,JAX,31,32,AFC South,AFC
+Houston Texans,Away,Tennessee Titans,HOU,TEN,31,11,AFC South,AFC
+Houston Texans,Away,Chicago Bears,HOU,CHI,31,26,AFC South,AFC
+Houston Texans,Away,Dallas Cowboys,HOU,DAL,31,19,AFC South,AFC
+Houston Texans,Away,Denver Broncos,HOU,DEN,31,21,AFC South,AFC
+Houston Texans,Away,Las Vegas Raiders,HOU,LVR,31,15,AFC South,AFC
+Houston Texans,Away,Miami Dolphins,HOU,MIA,31,17,AFC South,AFC
+Houston Texans,Away,New York Giants,HOU,NYG,31,27,AFC South,AFC
+Jacksonville Jaguars,Home,Houston Texans,JAX,HOU,32,31,AFC South,AFC
+Jacksonville Jaguars,Home,Indianapolis Colts,JAX,IND,32,13,AFC South,AFC
+Jacksonville Jaguars,Home,Tennessee Titans,JAX,TEN,32,11,AFC South,AFC
+Jacksonville Jaguars,Home,Baltimore Ravens,JAX,BAL,32,12,AFC South,AFC
+Jacksonville Jaguars,Home,Dallas Cowboys,JAX,DAL,32,19,AFC South,AFC
+Jacksonville Jaguars,Home,Denver Broncos,JAX,DEN,32,21,AFC South,AFC
+Jacksonville Jaguars,Home,Las Vegas Raiders,JAX,LVR,32,15,AFC South,AFC
+Jacksonville Jaguars,Home,New York Giants,JAX,NYG,32,27,AFC South,AFC
+Jacksonville Jaguars,Away,Houston Texans,JAX,HOU,32,31,AFC South,AFC
+Jacksonville Jaguars,Away,Indianapolis Colts,JAX,IND,32,13,AFC South,AFC
+Jacksonville Jaguars,Away,Tennessee Titans,JAX,TEN,32,11,AFC South,AFC
+Jacksonville Jaguars,Away,Detroit Lions,JAX,DET,32,30,AFC South,AFC
+Jacksonville Jaguars,Away,Kansas City Chiefs,JAX,KAN,32,2,AFC South,AFC
+Jacksonville Jaguars,Away,Los Angeles Chargers,JAX,LAC,32,8,AFC South,AFC
+Jacksonville Jaguars,Away,New York Jets,JAX,NYJ,32,28,AFC South,AFC
+Jacksonville Jaguars,Away,Philadelphia Eagles,JAX,PHI,32,14,AFC South,AFC
+Jacksonville Jaguars,Away,Washington Football Team,JAX,WAS,32,25,AFC South,AFC
+Kansas City Chiefs,Home,Denver Broncos,KAN,DEN,2,21,AFC West,AFC
+Kansas City Chiefs,Home,Las Vegas Raiders,KAN,LVR,2,15,AFC West,AFC
+Kansas City Chiefs,Home,Los Angeles Chargers,KAN,LAC,2,8,AFC West,AFC
+Kansas City Chiefs,Home,Buffalo Bills,KAN,BUF,2,1,AFC West,AFC
+Kansas City Chiefs,Home,Jacksonville Jaguars,KAN,JAX,2,32,AFC West,AFC
+Kansas City Chiefs,Home,Los Angeles Rams,KAN,LAR,2,3,AFC West,AFC
+Kansas City Chiefs,Home,Seattle Seahawks,KAN,SEA,2,23,AFC West,AFC
+Kansas City Chiefs,Home,Tennessee Titans,KAN,TEN,2,11,AFC West,AFC
+Kansas City Chiefs,Away,Denver Broncos,KAN,DEN,2,21,AFC West,AFC
+Kansas City Chiefs,Away,Las Vegas Raiders,KAN,LVR,2,15,AFC West,AFC
+Kansas City Chiefs,Away,Los Angeles Chargers,KAN,LAC,2,8,AFC West,AFC
+Kansas City Chiefs,Away,Arizona Cardinals,KAN,ARI,2,10,AFC West,AFC
+Kansas City Chiefs,Away,Cincinnati Bengals,KAN,CIN,2,5,AFC West,AFC
+Kansas City Chiefs,Away,Houston Texans,KAN,HOU,2,31,AFC West,AFC
+Kansas City Chiefs,Away,Indianapolis Colts,KAN,IND,2,13,AFC West,AFC
+Kansas City Chiefs,Away,San Francisco 49ers,KAN,SFO,2,6,AFC West,AFC
+Kansas City Chiefs,Away,Tampa Bay Buccaneers,KAN,TAM,2,7,AFC West,AFC
+Las Vegas Raiders,Home,Denver Broncos,LVR,DEN,15,21,AFC West,AFC
+Las Vegas Raiders,Home,Kansas City Chiefs,LVR,KAN,15,2,AFC West,AFC
+Las Vegas Raiders,Home,Los Angeles Chargers,LVR,LAC,15,8,AFC West,AFC
+Las Vegas Raiders,Home,Arizona Cardinals,LVR,ARI,15,10,AFC West,AFC
+Las Vegas Raiders,Home,Houston Texans,LVR,HOU,15,31,AFC West,AFC
+Las Vegas Raiders,Home,Indianapolis Colts,LVR,IND,15,13,AFC West,AFC
+Las Vegas Raiders,Home,New England Patriots,LVR,NWE,15,9,AFC West,AFC
+Las Vegas Raiders,Home,San Francisco 49ers,LVR,SFO,15,6,AFC West,AFC
+Las Vegas Raiders,Away,Denver Broncos,LVR,DEN,15,21,AFC West,AFC
+Las Vegas Raiders,Away,Kansas City Chiefs,LVR,KAN,15,2,AFC West,AFC
+Las Vegas Raiders,Away,Los Angeles Chargers,LVR,LAC,15,8,AFC West,AFC
+Las Vegas Raiders,Away,Jacksonville Jaguars,LVR,JAX,15,32,AFC West,AFC
+Las Vegas Raiders,Away,Los Angeles Rams,LVR,LAR,15,3,AFC West,AFC
+Las Vegas Raiders,Away,New Orleans Saints,LVR,NOR,15,22,AFC West,AFC
+Las Vegas Raiders,Away,Pittsburgh Steelers,LVR,PIT,15,18,AFC West,AFC
+Las Vegas Raiders,Away,Seattle Seahawks,LVR,SEA,15,23,AFC West,AFC
+Las Vegas Raiders,Away,Tennessee Titans,LVR,TEN,15,11,AFC West,AFC
+Los Angeles Chargers,Home,Denver Broncos,LAC,DEN,8,21,AFC West,AFC
+Los Angeles Chargers,Home,Kansas City Chiefs,LAC,KAN,8,2,AFC West,AFC
+Los Angeles Chargers,Home,Las Vegas Raiders,LAC,LVR,8,15,AFC West,AFC
+Los Angeles Chargers,Home,Jacksonville Jaguars,LAC,JAX,8,32,AFC West,AFC
+Los Angeles Chargers,Home,Tennessee Titans,LAC,TEN,8,11,AFC West,AFC
+Los Angeles Chargers,Home,Los Angeles Rams,LAC,LAR,8,3,AFC West,AFC
+Los Angeles Chargers,Home,Seattle Seahawks,LAC,SEA,8,23,AFC West,AFC
+Los Angeles Chargers,Home,Miami Dolphins,LAC,MIA,8,17,AFC West,AFC
+Los Angeles Chargers,Away,Denver Broncos,LAC,DEN,8,21,AFC West,AFC
+Los Angeles Chargers,Away,Kansas City Chiefs,LAC,KAN,8,2,AFC West,AFC
+Los Angeles Chargers,Away,Las Vegas Raiders,LAC,LVR,8,15,AFC West,AFC
+Los Angeles Chargers,Away,Arizona Cardinals,LAC,ARI,8,10,AFC West,AFC
+Los Angeles Chargers,Away,Atlanta Falcons,LAC,ATL,8,24,AFC West,AFC
+Los Angeles Chargers,Away,Cleveland Browns,LAC,CLE,8,16,AFC West,AFC
+Los Angeles Chargers,Away,Houston Texans,LAC,HOU,8,31,AFC West,AFC
+Los Angeles Chargers,Away,Indianapolis Colts,LAC,IND,8,13,AFC West,AFC
+Los Angeles Chargers,Away,San Francisco 49ers,LAC,SFO,8,6,AFC West,AFC
+Denver Broncos,Home,Kansas City Chiefs,DEN,KAN,21,2,AFC West,AFC
+Denver Broncos,Home,Las Vegas Raiders,DEN,LVR,21,15,AFC West,AFC
+Denver Broncos,Home,Los Angeles Chargers,DEN,LAC,21,8,AFC West,AFC
+Denver Broncos,Home,Arizona Cardinals,DEN,ARI,21,10,AFC West,AFC
+Denver Broncos,Home,Houston Texans,DEN,HOU,21,31,AFC West,AFC
+Denver Broncos,Home,Indianapolis Colts,DEN,IND,21,13,AFC West,AFC
+Denver Broncos,Home,New York Jets,DEN,NYJ,21,28,AFC West,AFC
+Denver Broncos,Home,San Francisco 49ers,DEN,SFO,21,6,AFC West,AFC
+Denver Broncos,Away,Kansas City Chiefs,DEN,KAN,21,2,AFC West,AFC
+Denver Broncos,Away,Las Vegas Raiders,DEN,LVR,21,15,AFC West,AFC
+Denver Broncos,Away,Los Angeles Chargers,DEN,LAC,21,8,AFC West,AFC
+Denver Broncos,Away,Baltimore Ravens,DEN,BAL,21,12,AFC West,AFC
+Denver Broncos,Away,Carolina Panthers,DEN,CAR,21,29,AFC West,AFC
+Denver Broncos,Away,Jacksonville Jaguars,DEN,JAX,21,32,AFC West,AFC
+Denver Broncos,Away,Los Angeles Rams,DEN,LAR,21,3,AFC West,AFC
+Denver Broncos,Away,Seattle Seahawks,DEN,SEA,21,23,AFC West,AFC
+Denver Broncos,Away,Tennessee Titans,DEN,TEN,21,11,AFC West,AFC
+Dallas Cowboys,Home,New York Giants,DAL,NYG,19,27,NFC East,NFC
+Dallas Cowboys,Home,Philadelphia Eagles,DAL,PHI,19,14,NFC East,NFC
+Dallas Cowboys,Home,Washington Football Team,DAL,WAS,19,25,NFC East,NFC
+Dallas Cowboys,Home,Chicago Bears,DAL,CHI,19,26,NFC East,NFC
+Dallas Cowboys,Home,Cincinnati Bengals,DAL,CIN,19,5,NFC East,NFC
+Dallas Cowboys,Home,Detroit Lions,DAL,DET,19,30,NFC East,NFC
+Dallas Cowboys,Home,Houston Texans,DAL,HOU,19,31,NFC East,NFC
+Dallas Cowboys,Home,Indianapolis Colts,DAL,IND,19,13,NFC East,NFC
+Dallas Cowboys,Home,Tampa Bay Buccaneers,DAL,TAM,19,7,NFC East,NFC
+Dallas Cowboys,Away,New York Giants,DAL,NYG,19,27,NFC East,NFC
+Dallas Cowboys,Away,Philadelphia Eagles,DAL,PHI,19,14,NFC East,NFC
+Dallas Cowboys,Away,Washington Football Team,DAL,WAS,19,25,NFC East,NFC
+Dallas Cowboys,Away,Green Bay Packers,DAL,GNB,19,4,NFC East,NFC
+Dallas Cowboys,Away,Jacksonville Jaguars,DAL,JAX,19,32,NFC East,NFC
+Dallas Cowboys,Away,Los Angeles Rams,DAL,LAR,19,3,NFC East,NFC
+Dallas Cowboys,Away,Minnesota Vikings,DAL,MIN,19,20,NFC East,NFC
+Dallas Cowboys,Away,Tennessee Titans,DAL,TEN,19,11,NFC East,NFC
+Philadelphia Eagles,Home,Dallas Cowboys,PHI,DAL,14,19,NFC East,NFC
+Philadelphia Eagles,Home,New York Giants,PHI,NYG,14,27,NFC East,NFC
+Philadelphia Eagles,Home,Washington Football Team,PHI,WAS,14,25,NFC East,NFC
+Philadelphia Eagles,Home,Green Bay Packers,PHI,GNB,14,4,NFC East,NFC
+Philadelphia Eagles,Home,Jacksonville Jaguars,PHI,JAX,14,32,NFC East,NFC
+Philadelphia Eagles,Home,Minnesota Vikings,PHI,MIN,14,20,NFC East,NFC
+Philadelphia Eagles,Home,New Orleans Saints,PHI,NOR,14,22,NFC East,NFC
+Philadelphia Eagles,Home,Pittsburgh Steelers,PHI,PIT,14,18,NFC East,NFC
+Philadelphia Eagles,Home,Tennessee Titans,PHI,TEN,14,11,NFC East,NFC
+Philadelphia Eagles,Away,Dallas Cowboys,PHI,DAL,14,19,NFC East,NFC
+Philadelphia Eagles,Away,New York Giants,PHI,NYG,14,27,NFC East,NFC
+Philadelphia Eagles,Away,Washington Football Team,PHI,WAS,14,25,NFC East,NFC
+Philadelphia Eagles,Away,Arizona Cardinals,PHI,ARI,14,10,NFC East,NFC
+Philadelphia Eagles,Away,Chicago Bears,PHI,CHI,14,26,NFC East,NFC
+Philadelphia Eagles,Away,Detroit Lions,PHI,DET,14,30,NFC East,NFC
+Philadelphia Eagles,Away,Houston Texans,PHI,HOU,14,31,NFC East,NFC
+Philadelphia Eagles,Away,Indianapolis Colts,PHI,IND,14,13,NFC East,NFC
+Washington Football Team,Home,Dallas Cowboys,WAS,DAL,25,19,NFC East,NFC
+Washington Football Team,Home,New York Giants,WAS,NYG,25,27,NFC East,NFC
+Washington Football Team,Home,Philadelphia Eagles,WAS,PHI,25,14,NFC East,NFC
+Washington Football Team,Home,Atlanta Falcons,WAS,ATL,25,24,NFC East,NFC
+Washington Football Team,Home,Cleveland Browns,WAS,CLE,25,16,NFC East,NFC
+Washington Football Team,Home,Green Bay Packers,WAS,GNB,25,4,NFC East,NFC
+Washington Football Team,Home,Jacksonville Jaguars,WAS,JAX,25,32,NFC East,NFC
+Washington Football Team,Home,Minnesota Vikings,WAS,MIN,25,20,NFC East,NFC
+Washington Football Team,Home,Tennessee Titans,WAS,TEN,25,11,NFC East,NFC
+Washington Football Team,Away,Dallas Cowboys,WAS,DAL,25,19,NFC East,NFC
+Washington Football Team,Away,New York Giants,WAS,NYG,25,27,NFC East,NFC
+Washington Football Team,Away,Philadelphia Eagles,WAS,PHI,25,14,NFC East,NFC
+Washington Football Team,Away,Chicago Bears,WAS,CHI,25,26,NFC East,NFC
+Washington Football Team,Away,Detroit Lions,WAS,DET,25,30,NFC East,NFC
+Washington Football Team,Away,Houston Texans,WAS,HOU,25,31,NFC East,NFC
+Washington Football Team,Away,Indianapolis Colts,WAS,IND,25,13,NFC East,NFC
+Washington Football Team,Away,San Francisco 49ers,WAS,SFO,25,6,NFC East,NFC
+New York Giants,Home,Dallas Cowboys,NYG,DAL,27,19,NFC East,NFC
+New York Giants,Home,Philadelphia Eagles,NYG,PHI,27,14,NFC East,NFC
+New York Giants,Home,Washington Football Team,NYG,WAS,27,25,NFC East,NFC
+New York Giants,Home,Baltimore Ravens,NYG,BAL,27,12,NFC East,NFC
+New York Giants,Home,Carolina Panthers,NYG,CAR,27,29,NFC East,NFC
+New York Giants,Home,Chicago Bears,NYG,CHI,27,26,NFC East,NFC
+New York Giants,Home,Detroit Lions,NYG,DET,27,30,NFC East,NFC
+New York Giants,Home,Houston Texans,NYG,HOU,27,31,NFC East,NFC
+New York Giants,Home,Indianapolis Colts,NYG,IND,27,13,NFC East,NFC
+New York Giants,Away,Dallas Cowboys,NYG,DAL,27,19,NFC East,NFC
+New York Giants,Away,Philadelphia Eagles,NYG,PHI,27,14,NFC East,NFC
+New York Giants,Away,Washington Football Team,NYG,WAS,27,25,NFC East,NFC
+New York Giants,Away,Green Bay Packers,NYG,GNB,27,4,NFC East,NFC
+New York Giants,Away,Jacksonville Jaguars,NYG,JAX,27,32,NFC East,NFC
+New York Giants,Away,Minnesota Vikings,NYG,MIN,27,20,NFC East,NFC
+New York Giants,Away,Seattle Seahawks,NYG,SEA,27,23,NFC East,NFC
+New York Giants,Away,Tennessee Titans,NYG,TEN,27,11,NFC East,NFC
+Green Bay Packers,Home,Chicago Bears,GNB,CHI,4,26,NFC North,NFC
+Green Bay Packers,Home,Detroit Lions,GNB,DET,4,30,NFC North,NFC
+Green Bay Packers,Home,Minnesota Vikings,GNB,MIN,4,20,NFC North,NFC
+Green Bay Packers,Home,Dallas Cowboys,GNB,DAL,4,19,NFC North,NFC
+Green Bay Packers,Home,New England Patriots,GNB,NWE,4,9,NFC North,NFC
+Green Bay Packers,Home,New York Giants,GNB,NYG,4,27,NFC North,NFC
+Green Bay Packers,Home,New York Jets,GNB,NYJ,4,28,NFC North,NFC
+Green Bay Packers,Home,Los Angeles Rams,GNB,LAR,4,3,NFC North,NFC
+Green Bay Packers,Home,Tennessee Titans,GNB,TEN,4,11,NFC North,NFC
+Green Bay Packers,Away,Chicago Bears,GNB,CHI,4,26,NFC North,NFC
+Green Bay Packers,Away,Detroit Lions,GNB,DET,4,30,NFC North,NFC
+Green Bay Packers,Away,Minnesota Vikings,GNB,MIN,4,20,NFC North,NFC
+Green Bay Packers,Away,Buffalo Bills,GNB,BUF,4,1,NFC North,NFC
+Green Bay Packers,Away,Miami Dolphins,GNB,MIA,4,17,NFC North,NFC
+Green Bay Packers,Away,Philadelphia Eagles,GNB,PHI,4,14,NFC North,NFC
+Green Bay Packers,Away,Tampa Bay Buccaneers,GNB,TAM,4,7,NFC North,NFC
+Green Bay Packers,Away,Washington Football Team,GNB,WAS,4,25,NFC North,NFC
+Minnesota Vikings,Home,Chicago Bears,MIN,CHI,20,26,NFC North,NFC
+Minnesota Vikings,Home,Detroit Lions,MIN,DET,20,30,NFC North,NFC
+Minnesota Vikings,Home,Green Bay Packers,MIN,GNB,20,4,NFC North,NFC
+Minnesota Vikings,Home,Arizona Cardinals,MIN,ARI,20,10,NFC North,NFC
+Minnesota Vikings,Home,Dallas Cowboys,MIN,DAL,20,19,NFC North,NFC
+Minnesota Vikings,Home,Indianapolis Colts,MIN,IND,20,13,NFC North,NFC
+Minnesota Vikings,Home,New England Patriots,MIN,NWE,20,9,NFC North,NFC
+Minnesota Vikings,Home,New York Giants,MIN,NYG,20,27,NFC North,NFC
+Minnesota Vikings,Home,New York Jets,MIN,NYJ,20,28,NFC North,NFC
+Minnesota Vikings,Away,Chicago Bears,MIN,CHI,20,26,NFC North,NFC
+Minnesota Vikings,Away,Detroit Lions,MIN,DET,20,30,NFC North,NFC
+Minnesota Vikings,Away,Green Bay Packers,MIN,GNB,20,4,NFC North,NFC
+Minnesota Vikings,Away,Buffalo Bills,MIN,BUF,20,1,NFC North,NFC
+Minnesota Vikings,Away,Miami Dolphins,MIN,MIA,20,17,NFC North,NFC
+Minnesota Vikings,Away,New Orleans Saints,MIN,NOR,20,22,NFC North,NFC
+Minnesota Vikings,Away,Philadelphia Eagles,MIN,PHI,20,14,NFC North,NFC
+Minnesota Vikings,Away,Washington Football Team,MIN,WAS,20,25,NFC North,NFC
+Chicago Bears,Home,Detroit Lions,CHI,DET,26,30,NFC North,NFC
+Chicago Bears,Home,Green Bay Packers,CHI,GNB,26,4,NFC North,NFC
+Chicago Bears,Home,Minnesota Vikings,CHI,MIN,26,20,NFC North,NFC
+Chicago Bears,Home,Buffalo Bills,CHI,BUF,26,1,NFC North,NFC
+Chicago Bears,Home,Houston Texans,CHI,HOU,26,31,NFC North,NFC
+Chicago Bears,Home,Miami Dolphins,CHI,MIA,26,17,NFC North,NFC
+Chicago Bears,Home,Philadelphia Eagles,CHI,PHI,26,14,NFC North,NFC
+Chicago Bears,Home,Washington Football Team,CHI,WAS,26,25,NFC North,NFC
+Chicago Bears,Home,San Francisco 49ers,CHI,SFO,26,6,NFC North,NFC
+Chicago Bears,Away,Detroit Lions,CHI,DET,26,30,NFC North,NFC
+Chicago Bears,Away,Green Bay Packers,CHI,GNB,26,4,NFC North,NFC
+Chicago Bears,Away,Minnesota Vikings,CHI,MIN,26,20,NFC North,NFC
+Chicago Bears,Away,Atlanta Falcons,CHI,ATL,26,24,NFC North,NFC
+Chicago Bears,Away,Dallas Cowboys,CHI,DAL,26,19,NFC North,NFC
+Chicago Bears,Away,New England Patriots,CHI,NWE,26,9,NFC North,NFC
+Chicago Bears,Away,New York Giants,CHI,NYG,26,27,NFC North,NFC
+Chicago Bears,Away,New York Jets,CHI,NYJ,26,28,NFC North,NFC
+Detroit Lions,Home,Chicago Bears,DET,CHI,30,26,NFC North,NFC
+Detroit Lions,Home,Green Bay Packers,DET,GNB,30,4,NFC North,NFC
+Detroit Lions,Home,Minnesota Vikings,DET,MIN,30,20,NFC North,NFC
+Detroit Lions,Home,Buffalo Bills,DET,BUF,30,1,NFC North,NFC
+Detroit Lions,Home,Jacksonville Jaguars,DET,JAX,30,32,NFC North,NFC
+Detroit Lions,Home,Miami Dolphins,DET,MIA,30,17,NFC North,NFC
+Detroit Lions,Home,Philadelphia Eagles,DET,PHI,30,14,NFC North,NFC
+Detroit Lions,Home,Seattle Seahawks,DET,SEA,30,23,NFC North,NFC
+Detroit Lions,Home,Washington Football Team,DET,WAS,30,25,NFC North,NFC
+Detroit Lions,Away,Chicago Bears,DET,CHI,30,26,NFC North,NFC
+Detroit Lions,Away,Green Bay Packers,DET,GNB,30,4,NFC North,NFC
+Detroit Lions,Away,Minnesota Vikings,DET,MIN,30,20,NFC North,NFC
+Detroit Lions,Away,Carolina Panthers,DET,CAR,30,29,NFC North,NFC
+Detroit Lions,Away,Dallas Cowboys,DET,DAL,30,19,NFC North,NFC
+Detroit Lions,Away,New England Patriots,DET,NWE,30,9,NFC North,NFC
+Detroit Lions,Away,New York Giants,DET,NYG,30,27,NFC North,NFC
+Detroit Lions,Away,New York Jets,DET,NYJ,30,28,NFC North,NFC
+Tampa Bay Buccaneers,Home,Atlanta Falcons,TAM,ATL,7,24,NFC South,NFC
+Tampa Bay Buccaneers,Home,Carolina Panthers,TAM,CAR,7,29,NFC South,NFC
+Tampa Bay Buccaneers,Home,New Orleans Saints,TAM,NOR,7,22,NFC South,NFC
+Tampa Bay Buccaneers,Home,Baltimore Ravens,TAM,BAL,7,12,NFC South,NFC
+Tampa Bay Buccaneers,Home,Cincinnati Bengals,TAM,CIN,7,5,NFC South,NFC
+Tampa Bay Buccaneers,Home,Green Bay Packers,TAM,GNB,7,4,NFC South,NFC
+Tampa Bay Buccaneers,Home,Kansas City Chiefs,TAM,KAN,7,2,NFC South,NFC
+Tampa Bay Buccaneers,Home,Los Angeles Rams,TAM,LAR,7,3,NFC South,NFC
+Tampa Bay Buccaneers,Home,Seattle Seahawks,TAM,SEA,7,23,NFC South,NFC
+Tampa Bay Buccaneers,Away,Atlanta Falcons,TAM,ATL,7,24,NFC South,NFC
+Tampa Bay Buccaneers,Away,Carolina Panthers,TAM,CAR,7,29,NFC South,NFC
+Tampa Bay Buccaneers,Away,New Orleans Saints,TAM,NOR,7,22,NFC South,NFC
+Tampa Bay Buccaneers,Away,Arizona Cardinals,TAM,ARI,7,10,NFC South,NFC
+Tampa Bay Buccaneers,Away,Cleveland Browns,TAM,CLE,7,16,NFC South,NFC
+Tampa Bay Buccaneers,Away,Dallas Cowboys,TAM,DAL,7,19,NFC South,NFC
+Tampa Bay Buccaneers,Away,Pittsburgh Steelers,TAM,PIT,7,18,NFC South,NFC
+Tampa Bay Buccaneers,Away,San Francisco 49ers,TAM,SFO,7,6,NFC South,NFC
+New Orleans Saints,Home,Atlanta Falcons,NOR,ATL,22,24,NFC South,NFC
+New Orleans Saints,Home,Carolina Panthers,NOR,CAR,22,29,NFC South,NFC
+New Orleans Saints,Home,Tampa Bay Buccaneers,NOR,TAM,22,7,NFC South,NFC
+New Orleans Saints,Home,Baltimore Ravens,NOR,BAL,22,12,NFC South,NFC
+New Orleans Saints,Home,Cincinnati Bengals,NOR,CIN,22,5,NFC South,NFC
+New Orleans Saints,Home,Las Vegas Raiders,NOR,LVR,22,15,NFC South,NFC
+New Orleans Saints,Home,Los Angeles Rams,NOR,LAR,22,3,NFC South,NFC
+New Orleans Saints,Home,Minnesota Vikings,NOR,MIN,22,20,NFC South,NFC
+New Orleans Saints,Home,Seattle Seahawks,NOR,SEA,22,23,NFC South,NFC
+New Orleans Saints,Away,Atlanta Falcons,NOR,ATL,22,24,NFC South,NFC
+New Orleans Saints,Away,Carolina Panthers,NOR,CAR,22,29,NFC South,NFC
+New Orleans Saints,Away,Tampa Bay Buccaneers,NOR,TAM,22,7,NFC South,NFC
+New Orleans Saints,Away,Arizona Cardinals,NOR,ARI,22,10,NFC South,NFC
+New Orleans Saints,Away,Cleveland Browns,NOR,CLE,22,16,NFC South,NFC
+New Orleans Saints,Away,Philadelphia Eagles,NOR,PHI,22,14,NFC South,NFC
+New Orleans Saints,Away,Pittsburgh Steelers,NOR,PIT,22,18,NFC South,NFC
+New Orleans Saints,Away,San Francisco 49ers,NOR,SFO,22,6,NFC South,NFC
+Atlanta Falcons,Home,Carolina Panthers,ATL,CAR,24,29,NFC South,NFC
+Atlanta Falcons,Home,New Orleans Saints,ATL,NOR,24,22,NFC South,NFC
+Atlanta Falcons,Home,Tampa Bay Buccaneers,ATL,TAM,24,7,NFC South,NFC
+Atlanta Falcons,Home,Arizona Cardinals,ATL,ARI,24,10,NFC South,NFC
+Atlanta Falcons,Home,Chicago Bears,ATL,CHI,24,26,NFC South,NFC
+Atlanta Falcons,Home,Cleveland Browns,ATL,CLE,24,16,NFC South,NFC
+Atlanta Falcons,Home,Los Angeles Chargers,ATL,LAC,24,8,NFC South,NFC
+Atlanta Falcons,Home,Pittsburgh Steelers,ATL,PIT,24,18,NFC South,NFC
+Atlanta Falcons,Home,San Francisco 49ers,ATL,SFO,24,6,NFC South,NFC
+Atlanta Falcons,Away,Carolina Panthers,ATL,CAR,24,29,NFC South,NFC
+Atlanta Falcons,Away,New Orleans Saints,ATL,NOR,24,22,NFC South,NFC
+Atlanta Falcons,Away,Tampa Bay Buccaneers,ATL,TAM,24,7,NFC South,NFC
+Atlanta Falcons,Away,Baltimore Ravens,ATL,BAL,24,12,NFC South,NFC
+Atlanta Falcons,Away,Cincinnati Bengals,ATL,CIN,24,5,NFC South,NFC
+Atlanta Falcons,Away,Los Angeles Rams,ATL,LAR,24,3,NFC South,NFC
+Atlanta Falcons,Away,Seattle Seahawks,ATL,SEA,24,23,NFC South,NFC
+Atlanta Falcons,Away,Washington Football Team,ATL,WAS,24,25,NFC South,NFC
+Carolina Panthers,Home,Atlanta Falcons,CAR,ATL,29,24,NFC South,NFC
+Carolina Panthers,Home,New Orleans Saints,CAR,NOR,29,22,NFC South,NFC
+Carolina Panthers,Home,Tampa Bay Buccaneers,CAR,TAM,29,7,NFC South,NFC
+Carolina Panthers,Home,Arizona Cardinals,CAR,ARI,29,10,NFC South,NFC
+Carolina Panthers,Home,Cleveland Browns,CAR,CLE,29,16,NFC South,NFC
+Carolina Panthers,Home,Denver Broncos,CAR,DEN,29,21,NFC South,NFC
+Carolina Panthers,Home,Detroit Lions,CAR,DET,29,30,NFC South,NFC
+Carolina Panthers,Home,Pittsburgh Steelers,CAR,PIT,29,18,NFC South,NFC
+Carolina Panthers,Home,San Francisco 49ers,CAR,SFO,29,6,NFC South,NFC
+Carolina Panthers,Away,Atlanta Falcons,CAR,ATL,29,24,NFC South,NFC
+Carolina Panthers,Away,New Orleans Saints,CAR,NOR,29,22,NFC South,NFC
+Carolina Panthers,Away,Tampa Bay Buccaneers,CAR,TAM,29,7,NFC South,NFC
+Carolina Panthers,Away,Baltimore Ravens,CAR,BAL,29,12,NFC South,NFC
+Carolina Panthers,Away,Cincinnati Bengals,CAR,CIN,29,5,NFC South,NFC
+Carolina Panthers,Away,Los Angeles Rams,CAR,LAR,29,3,NFC South,NFC
+Carolina Panthers,Away,New York Giants,CAR,NYG,29,27,NFC South,NFC
+Carolina Panthers,Away,Seattle Seahawks,CAR,SEA,29,23,NFC South,NFC
+Los Angeles Rams,Home,Arizona Cardinals,LAR,ARI,3,10,NFC West,NFC
+Los Angeles Rams,Home,San Francisco 49ers,LAR,SFO,3,6,NFC West,NFC
+Los Angeles Rams,Home,Seattle Seahawks,LAR,SEA,3,23,NFC West,NFC
+Los Angeles Rams,Home,Atlanta Falcons,LAR,ATL,3,24,NFC West,NFC
+Los Angeles Rams,Home,Buffalo Bills,LAR,BUF,3,1,NFC West,NFC
+Los Angeles Rams,Home,Carolina Panthers,LAR,CAR,3,29,NFC West,NFC
+Los Angeles Rams,Home,Dallas Cowboys,LAR,DAL,3,19,NFC West,NFC
+Los Angeles Rams,Home,Denver Broncos,LAR,DEN,3,21,NFC West,NFC
+Los Angeles Rams,Home,Las Vegas Raiders,LAR,LVR,3,15,NFC West,NFC
+Los Angeles Rams,Away,Arizona Cardinals,LAR,ARI,3,10,NFC West,NFC
+Los Angeles Rams,Away,San Francisco 49ers,LAR,SFO,3,6,NFC West,NFC
+Los Angeles Rams,Away,Seattle Seahawks,LAR,SEA,3,23,NFC West,NFC
+Los Angeles Rams,Away,Green Bay Packers,LAR,GNB,3,4,NFC West,NFC
+Los Angeles Rams,Away,Kansas City Chiefs,LAR,KAN,3,2,NFC West,NFC
+Los Angeles Rams,Away,Los Angeles Chargers,LAR,LAC,3,8,NFC West,NFC
+Los Angeles Rams,Away,New Orleans Saints,LAR,NOR,3,22,NFC West,NFC
+Los Angeles Rams,Away,Tampa Bay Buccaneers,LAR,TAM,3,7,NFC West,NFC
+Arizona Cardinals,Home,Los Angeles Rams,ARI,LAR,10,3,NFC West,NFC
+Arizona Cardinals,Home,San Francisco 49ers,ARI,SFO,10,6,NFC West,NFC
+Arizona Cardinals,Home,Seattle Seahawks,ARI,SEA,10,23,NFC West,NFC
+Arizona Cardinals,Home,Kansas City Chiefs,ARI,KAN,10,2,NFC West,NFC
+Arizona Cardinals,Home,Los Angeles Chargers,ARI,LAC,10,8,NFC West,NFC
+Arizona Cardinals,Home,New England Patriots,ARI,NWE,10,9,NFC West,NFC
+Arizona Cardinals,Home,New Orleans Saints,ARI,NOR,10,22,NFC West,NFC
+Arizona Cardinals,Home,Philadelphia Eagles,ARI,PHI,10,14,NFC West,NFC
+Arizona Cardinals,Home,Tampa Bay Buccaneers,ARI,TAM,10,7,NFC West,NFC
+Arizona Cardinals,Away,Los Angeles Rams,ARI,LAR,10,3,NFC West,NFC
+Arizona Cardinals,Away,San Francisco 49ers,ARI,SFO,10,6,NFC West,NFC
+Arizona Cardinals,Away,Seattle Seahawks,ARI,SEA,10,23,NFC West,NFC
+Arizona Cardinals,Away,Atlanta Falcons,ARI,ATL,10,24,NFC West,NFC
+Arizona Cardinals,Away,Carolina Panthers,ARI,CAR,10,29,NFC West,NFC
+Arizona Cardinals,Away,Denver Broncos,ARI,DEN,10,21,NFC West,NFC
+Arizona Cardinals,Away,Las Vegas Raiders,ARI,LVR,10,15,NFC West,NFC
+Arizona Cardinals,Away,Minnesota Vikings,ARI,MIN,10,20,NFC West,NFC
+San Francisco 49ers,Home,Arizona Cardinals,SFO,ARI,6,10,NFC West,NFC
+San Francisco 49ers,Home,Los Angeles Rams,SFO,LAR,6,3,NFC West,NFC
+San Francisco 49ers,Home,Seattle Seahawks,SFO,SEA,6,23,NFC West,NFC
+San Francisco 49ers,Home,Kansas City Chiefs,SFO,KAN,6,2,NFC West,NFC
+San Francisco 49ers,Home,Los Angeles Chargers,SFO,LAC,6,8,NFC West,NFC
+San Francisco 49ers,Home,Miami Dolphins,SFO,MIA,6,17,NFC West,NFC
+San Francisco 49ers,Home,New Orleans Saints,SFO,NOR,6,22,NFC West,NFC
+San Francisco 49ers,Home,Tampa Bay Buccaneers,SFO,TAM,6,7,NFC West,NFC
+San Francisco 49ers,Home,Washington Football Team,SFO,WAS,6,25,NFC West,NFC
+San Francisco 49ers,Away,Arizona Cardinals,SFO,ARI,6,10,NFC West,NFC
+San Francisco 49ers,Away,Los Angeles Rams,SFO,LAR,6,3,NFC West,NFC
+San Francisco 49ers,Away,Seattle Seahawks,SFO,SEA,6,23,NFC West,NFC
+San Francisco 49ers,Away,Atlanta Falcons,SFO,ATL,6,24,NFC West,NFC
+San Francisco 49ers,Away,Carolina Panthers,SFO,CAR,6,29,NFC West,NFC
+San Francisco 49ers,Away,Chicago Bears,SFO,CHI,6,26,NFC West,NFC
+San Francisco 49ers,Away,Denver Broncos,SFO,DEN,6,21,NFC West,NFC
+San Francisco 49ers,Away,Las Vegas Raiders,SFO,LVR,6,15,NFC West,NFC
+Seattle Seahawks,Home,Arizona Cardinals,SEA,ARI,23,10,NFC West,NFC
+Seattle Seahawks,Home,Los Angeles Rams,SEA,LAR,23,3,NFC West,NFC
+Seattle Seahawks,Home,San Francisco 49ers,SEA,SFO,23,6,NFC West,NFC
+Seattle Seahawks,Home,Atlanta Falcons,SEA,ATL,23,24,NFC West,NFC
+Seattle Seahawks,Home,Carolina Panthers,SEA,CAR,23,29,NFC West,NFC
+Seattle Seahawks,Home,Denver Broncos,SEA,DEN,23,21,NFC West,NFC
+Seattle Seahawks,Home,Las Vegas Raiders,SEA,LVR,23,15,NFC West,NFC
+Seattle Seahawks,Home,New York Giants,SEA,NYG,23,27,NFC West,NFC
+Seattle Seahawks,Home,New York Jets,SEA,NYJ,23,28,NFC West,NFC
+Seattle Seahawks,Away,Arizona Cardinals,SEA,ARI,23,10,NFC West,NFC
+Seattle Seahawks,Away,Los Angeles Rams,SEA,LAR,23,3,NFC West,NFC
+Seattle Seahawks,Away,San Francisco 49ers,SEA,SFO,23,6,NFC West,NFC
+Seattle Seahawks,Away,Detroit Lions,SEA,DET,23,30,NFC West,NFC
+Seattle Seahawks,Away,Kansas City Chiefs,SEA,KAN,23,2,NFC West,NFC
+Seattle Seahawks,Away,Los Angeles Chargers,SEA,LAC,23,8,NFC West,NFC
+Seattle Seahawks,Away,New Orleans Saints,SEA,NOR,23,22,NFC West,NFC
+Seattle Seahawks,Away,Tampa Bay Buccaneers,SEA,TAM,23,7,NFC West,NFC
